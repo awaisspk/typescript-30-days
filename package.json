@@ -1,0 +1,16 @@
+{
+  "name": "typescript-30-days",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:awaisspk/typescript-30-days.git",
+  "author": "awaisspk <iamawaisiqball@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsc --watch --preserveWatchOutput"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "^2.4.1",
+    "typescript": "^4.4.4"
+  }
+}
